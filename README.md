@@ -3,6 +3,8 @@
 
 ChessAI is a Java application that offers a graphical user interface (GUI) for playing chess against an AI opponent. The project aims to provide an interactive platform for users to engage in chess games with computer-generated moves.
 
+![img.png](img.png)
+
 ## Features
 - **Graphical User Interface**: A user-friendly GUI that allows players to interact with the chessboard seamlessly.
 - **AI Opponent**: Play against an AI that makes moves based on implemented algorithms.
